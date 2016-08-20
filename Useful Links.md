@@ -8,7 +8,7 @@ Data Science Cookbook
 http://chrisalbon.com/
 
 Python Tricks
-http://sahandsaba.com/thirty-python-language-features-and-tricks-you-may-not-know.html#list-slices-a-start-end
+http://sahandsaba.com/thirty-python-language-features-and-tricks-you-may-not-know.html
 
 Ensembling Guide
 http://mlwave.com/kaggle-ensembling-guide/
