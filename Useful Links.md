@@ -18,3 +18,6 @@ http://nb.bianp.net/sort/views/
 
 Various Python Tutorials incl. Data Science
 https://pythonprogramming.net/
+
+Sebastian Raschka's Machine Learning FAQs
+http://sebastianraschka.com/faq/index.html
