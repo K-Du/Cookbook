@@ -21,3 +21,6 @@ https://pythonprogramming.net/
 
 Sebastian Raschka's Machine Learning FAQs
 http://sebastianraschka.com/faq/index.html
+
+Python Antipatterns
+http://docs.quantifiedcode.com/python-anti-patterns/correctness/index.html
