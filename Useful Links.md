@@ -24,3 +24,6 @@ http://sebastianraschka.com/faq/index.html
 
 Python Antipatterns
 http://docs.quantifiedcode.com/python-anti-patterns/correctness/index.html
+
+Theano GPU Windows Setup
+https://datanoord.com/2016/02/02/setup-a-deep-learning-environment-on-windows-theano-keras-with-gpu-enabled/
