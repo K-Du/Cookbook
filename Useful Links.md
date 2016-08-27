@@ -30,3 +30,6 @@ https://datanoord.com/2016/02/02/setup-a-deep-learning-environment-on-windows-th
 
 Intro to Tensorflow
 https://medium.com/@khor/the-gentlest-introduction-to-tensorflow-248dc871a224#.4x3p2hej0
+
+Python Itertools
+http://programeveryday.com/post/using-python-itertools-to-save-memory/
