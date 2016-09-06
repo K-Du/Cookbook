@@ -29,3 +29,7 @@ Intro to Tensorflow https://medium.com/@khor/the-gentlest-introduction-to-tensor
 Python Itertools http://programeveryday.com/post/using-python-itertools-to-save-memory/
 
 Binary Indexed Trees (Fenwick) https://www.topcoder.com/community/data-science/data-science-tutorials/binary-indexed-trees/
+
+Python Anti-patterns http://docs.quantifiedcode.com/python-anti-patterns/index.html#
+
+Jeff Knupp Python: https://jeffknupp.com/blog/2014/06/18/improve-your-python-python-classes-and-object-oriented-programming/
