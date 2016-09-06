@@ -33,3 +33,6 @@ https://medium.com/@khor/the-gentlest-introduction-to-tensorflow-248dc871a224#.4
 
 Python Itertools
 http://programeveryday.com/post/using-python-itertools-to-save-memory/
+
+Binary Indexed Trees (Fenwick)
+https://www.topcoder.com/community/data-science/data-science-tutorials/binary-indexed-trees/
