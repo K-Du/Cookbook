@@ -1,4 +1,4 @@
-from bisect import bisect_left
+from bisect import bisect_left 
 
 def binary_search(a, x, lo=0, hi=None):   
     hi = hi if hi is not None else len(a) 
