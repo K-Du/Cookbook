@@ -1,6 +1,6 @@
 # Cookbook
 Useful python functions
- 
+
 Useful links:
 
 
