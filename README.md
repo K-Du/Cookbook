@@ -1,4 +1,4 @@
-# Cookbook 
+# Cookbook  
 Useful python functions
 
 Useful links:
