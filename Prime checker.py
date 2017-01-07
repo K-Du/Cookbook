@@ -7,7 +7,7 @@ def isprime(number):
             return True
         if number%2==0:
             return False
-        for i in range(3,int(sqrt(number))+1):
+        for i in range(3,int(number**0.5)+1):
             if number%i==0:
                 return False
         return True
