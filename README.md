@@ -37,3 +37,5 @@ Python Anti-patterns http://docs.quantifiedcode.com/python-anti-patterns/index.h
 Jeff Knupp Python: https://jeffknupp.com/blog/2014/06/18/improve-your-python-python-classes-and-object-oriented-programming/
 
 Darknet: http://pjreddie.com/darknet/
+
+Concurrency and Parallelism: http://learn-gevent-socketio.readthedocs.io/en/latest/general_concepts.html#what-s-a-coroutine  
