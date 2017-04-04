@@ -14,7 +14,7 @@ Python Tricks http://sahandsaba.com/thirty-python-language-features-and-tricks-y
 
 Ensembling Guide http://mlwave.com/kaggle-ensembling-guide/
 
-IPyuthon Notebooks http://nb.bianp.net/sort/views/
+IPython Notebooks http://nb.bianp.net/sort/views/
 
 Various Python Tutorials incl. Data Science https://pythonprogramming.net/
 
@@ -39,3 +39,5 @@ Jeff Knupp Python: https://jeffknupp.com/blog/2014/06/18/improve-your-python-pyt
 Darknet: http://pjreddie.com/darknet/
 
 Concurrency and Parallelism: http://learn-gevent-socketio.readthedocs.io/en/latest/general_concepts.html#what-s-a-coroutine  
+
+Unit testing: https://jeffknupp.com/blog/2013/12/09/improve-your-python-understanding-unit-testing/  
