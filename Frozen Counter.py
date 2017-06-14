@@ -4,4 +4,4 @@ from collections import Counter
 
 class FrozenCounter(Counter):
     def __hash__(self):
-        return hash(frozenset(self.items())))
+        return hash(frozenset(self.items()))
